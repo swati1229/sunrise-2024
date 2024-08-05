@@ -1,0 +1,25 @@
+.sidebar {
+    width: 175px;
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .button {
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    background-color: #765bc0;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #7915c1;
+    color:black
+  }
+  
